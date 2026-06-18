@@ -1,0 +1,1 @@
+Windows環境で、AF22059_TITAN_SLAYER_3D.exeを開くとゲームがプレイできます。
